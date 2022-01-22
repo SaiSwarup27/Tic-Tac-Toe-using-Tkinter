@@ -10,9 +10,9 @@ Tic-Tac-Toe Game in python3 Tkinter
 ## working Model
 
 <p align="center" width="100%">
-    <img width="30%" height="500" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winning.png">
-    <img width="30%" height="500" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player2_winning.png">
-    <img width="30%" height="500" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/match_draw.png">
+    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winning.png">
+    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player2_winning.png">
+    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/match_draw.png">
 </p>
 <p align="center" width="100%">
     <img width="30%" height="200" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winningmsg.png">
