@@ -1,6 +1,7 @@
 import tkinter as tk
 import tkinter.messagebox
 from tkinter.tix import COLUMN
+
 window=tk.Tk()
 window.title('Tic Tac Toe')
 frame=tk.Frame(master=window)
