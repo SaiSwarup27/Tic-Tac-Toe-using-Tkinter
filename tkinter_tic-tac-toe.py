@@ -256,6 +256,5 @@ def buttonclick(x):
         disablebutton()
         c=1
         tkinter.messagebox.showinfo("Tic Tac Toe","Match is Draw.")
-
     
 window.mainloop()
